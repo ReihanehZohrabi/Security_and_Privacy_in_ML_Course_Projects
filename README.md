@@ -33,31 +33,31 @@ In this repository, you will find my projects related to the course. Each projec
 1. [CNN](/CNN)
    - Description: Convolutional Neural Network implementation.
 
-2. [Defensive Distillation](/Defensive_Distillation)
+2. [Defensive Distillation](/Defensive%20Distillation)
    - Description: Project focusing on defensive distillation techniques.
 
-3. [Denoising AE](/Denoising_AE)
+3. [Denoising AE](/Denoising%20AutoEncoder)
    - Description: Implementation of a Denoising Autoencoder.
 
-4. [Differentially Private SGD](/Differentially_Private_SGD)
+4. [Differentially Private SGD](/differentially_private_SGD)
    - Description: Project involving Differentially Private Stochastic Gradient Descent.
 
-5. [FGSM, PGD & Adv Training](/FGSM_PGD_Adv_Training)
+5. [FGSM, PGD & Adv Training](/FGSM%2CPGD%20%26%20Adv%20Training)
    - Description: Implementations of Fast Gradient Sign Method, Projected Gradient Descent, and Adversarial Training.
 
-6. [Jacobian based Data Augmentation](/Jacobian_Data_Augmentation)
+6. [Jacobian based Data Augmentation](/Jacobian%20based%20Data%20Augmentation)
    - Description: Project on Jacobian-based Data Augmentation technique.
 
-7. [Natural Evolutionary Strategies & Random Noise Defense](/NES_Random_Noise_Defense)
+7. [Natural Evolutionary Strategies & Random Noise Defense](/Natural%20Evolutionary%20Strategies%20%26%20Random%20Noise%20Defense%20)
    - Description: Projects covering Natural Evolutionary Strategies and Random Noise Defense.
 
-8. [Neural Network with numpy](/Neural_Network_with_numpy)
+8. [Neural Network with numpy](/Neural%20Network%20with%20numpyy)
    - Description: Implementation of a neural network using numpy.
 
 9. [Poisoning](/Poisoning)
    - Description: Project on poisoning attacks and defenses.
 
-10. [Universal Adversarial Perturbation](/Universal_Adversarial_Perturbation)
+10. [Universal Adversarial Perturbation](/Universal%20Adversarial%20Perturbation)
     - Description: Implementation of Universal Adversarial Perturbation technique.
 
 
